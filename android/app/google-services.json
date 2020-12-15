@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1072672667105",
+    "firebase_url": "https://quizzlerwizard.firebaseio.com",
+    "project_id": "quizzlerwizard",
+    "storage_bucket": "quizzlerwizard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072672667105:android:cb947efa4d5fdeb5460ea0",
+        "android_client_info": {
+          "package_name": "com.example.quizzler_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072672667105-n8rl3fboanfdq98p65sgt0ekobuvihoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBembwpSzcPydJv32kg1hnAMl5WQNcs0u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072672667105-n8rl3fboanfdq98p65sgt0ekobuvihoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
